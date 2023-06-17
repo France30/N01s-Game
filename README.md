@@ -16,6 +16,7 @@ The original project was also left unfinished, thus some features seen in the ga
 that works from start to finish.
 
 ## Gameplay
+https://github.com/France30/N01s-Game/assets/53886711/7f80a1ac-d4ea-4384-8125-6cec922faa84
 
 ## Controls
 ```
