@@ -1,6 +1,6 @@
 # N01s-Game
 This game is centered around a virus called N01 whose goal is to possess and destroy the user's computer
-in every way possible. Thought it is not clear why.
+in every way possible. Though it is not clear why.
 
 Knowing this, the player has to do all that they can to prevent him from winning by taking over.
 But as the player was to launch the AntiVirus Program, N01 quickly corrupted the system enough to prevent the
