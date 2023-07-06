@@ -15,6 +15,8 @@ The source files aren't available as I'm currently in the processing of remaking
 The original project was also left unfinished, thus some features seen in the game are unresponsive. Despite this, the project was the very first game I developed
 that works from start to finish.
 
+I also don't own the rights to the art. 
+
 ## Gameplay
 https://github.com/France30/N01s-Game/assets/53886711/7f80a1ac-d4ea-4384-8125-6cec922faa84
 
